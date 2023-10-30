@@ -2,7 +2,7 @@
 <html lang="en-US">
 
 <head>
-    <title>Problem 1</title>
+    <title><a href="url">Problem 1</a></title>
     <meta charset="utf-8" />
     <script>
         window.addEventListener("load", () => {
@@ -28,10 +28,12 @@
 
    nav li {
        margin-right: 20px;
+       display: inline;
+
 }
 
 html {
-    background:red
+    background: pink;
 }
 
 nav a {
@@ -40,13 +42,15 @@ nav a {
 }
 
 nav a:hover {
-  color: pink; 
+  color: blue; 
 }
 
 ul {
   list-style-type: none; 
   padding-left: 0;
+  
 }
+
 
 ul li::before {
   content: "✔"; 
@@ -56,7 +60,9 @@ ul li::before {
 h1, a {
   text-transform: uppercase; 
 }
-
+h1:link {
+  text-decoration: none;
+}
 ul:not(nav ul) {
 
 }
