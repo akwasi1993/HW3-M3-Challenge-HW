@@ -40,7 +40,15 @@ nav a {
   text-decoration: none;
   color: green; 
 }
-
+a:visited {
+  color: green;
+}
+a:active {
+  color: blue;
+}
+a:link{
+    color: red;
+}
 nav a:hover {
   color: blue; 
 }
@@ -50,8 +58,6 @@ ul {
   padding-left: 0;
   
 }
-
-
 ul li::before {
   content: "✔"; 
   margin-right: 10px;
