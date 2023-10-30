@@ -1,6 +1,6 @@
 <table><tr><td> <em>Assignment: </em> IT202 JavaScript and CSS Challenge</td></tr>
 <tr><td> <em>Student: </em> Adofo Kwasi (ka326)</td></tr>
-<tr><td> <em>Generated: </em> 10/15/2023 12:13:00 AM</td></tr>
+<tr><td> <em>Generated: </em> 10/30/2023 1:03:28 PM</td></tr>
 <tr><td> <em>Grading Link: </em> <a rel="noreferrer noopener" href="https://learn.ethereallab.app/homework/IT202-103-F23/it202-javascript-and-css-challenge/grade/ka326" target="_blank">Grading</a></td></tr></table>
 <table><tr><td> <em>Instructions: </em> <ul><li>Reminder: Make sure you start in dev and it's up to date<ol><li><code>git checkout dev</code></li><li><code>git pull origin dev</code></li><li><code>git checkout -b M3-Challenge-HW</code></li></ol></li></ul><ol><li>Create a copy of the template given here:&nbsp;<a href="https://gist.github.com/MattToegel/77e4b66e3c73c074ea215562ebce717c">https://gist.github.com/MattToegel/77e4b66e3c73c074ea215562ebce717c</a></li><li>Implement the changes defined in the body of the code</li><ol><li>Hint: You may want to use your browser's developer tools to see the script that's pulled in, this may help with a few challenges</li></ol><li><strong>Do not</strong>&nbsp;edit anything where the comments tell you not to edit, you will lose points for not following directions</li><li>Make changes where the comments tell you (via TODO's or just above the lines that tell you not to edit below)<ol><li><strong>Hint</strong>: Just change things in the designated&nbsp;<code>&lt;style&gt;</code>&nbsp;and&nbsp;<code>&lt;script&gt;</code>&nbsp;tags</li><li><strong>Important</strong>: The function that drives one of the challenges is&nbsp;<code>updateCurrentPage(str)</code>&nbsp;which takes 1 parameter, a string of the word to display as the current page. This function is not included in the code of the page, along with a few other things, are linked via an external js file. Make sure you do not delete this line.</li></ol></li><li>Create a branch called M3-Challenge-HW if you haven't yet</li><li>Add this template to that branch (git add/git commit)</li><li>Make a pull request for this branch once you push it</li><li>You may manually deploy the HW branch to dev to get the evidence for the below prompts</li><li>Create a new file&nbsp;<strong>m3_submission.md</strong>&nbsp;file in the hw branch and fill it with the output generated from this page (be careful not to paste more than once)</li><li>Add, commit, and push the submission file</li><li>Close the pull request by merging it to dev (double-check all looks good on dev)</li><li>Manually create a new pull request from dev to prod (i.e., base: prod &lt;- compare: dev)</li><li>Complete the merge to deploy to production</li><li>Submit the direct link of the m3_submission.md from the prod branch to Canvas for this submission</li></ol><style>` and `<script>` tags
     2. **Important**: The function that drives one of the challenges is `updateCurrentPage(str)` which takes 1 parameter, a string of the word to display as the current page. This function is not included in the code of the page, along with a few other things, are linked via an external js file. Make sure you do not delete this line.  
@@ -15,17 +15,15 @@
 13. Complete the merge to deploy to production
 14. Submit the direct link of the m3_submission.md from the prod branch to Canvas for this submission
 </style></td></tr></table>
-<table><tr><td> <em>Deliverable 1: </em> Completed Challenge Screenshots </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707773-e6aef7cb-d5b2-4053-bbb1-b09fc609041e.png"></td></tr>
+<table><tr><td> <em>Deliverable 1: </em> Completed Challenge Screenshots </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707834-bf5a5b13-ec36-4597-9741-aa830c195be2.png"></td></tr>
 <tr><td><table><tr><td> <em>Sub-Task 1: </em> 5 Screenshots based on the checklist items for this task</td></tr>
-<tr><td><table><tr><td><img width="768px" src="https://firebasestorage.googleapis.com/v0/b/learn-e1de9.appspot.com/o/assignments%2Fka326%2F2023-10-15T03.35.36HW3.png.webp?alt=media&token=181b9e14-6df8-4d0d-a7e9-01bc78aed5a2"/></td></tr>
-<tr><td> <em>Caption:</em> <p>This the main Result(primary page)<br></p>
-</td></tr>
-<tr><td><img width="768px" src="https://firebasestorage.googleapis.com/v0/b/learn-e1de9.appspot.com/o/assignments%2Fka326%2F2023-10-15T04.07.28login.png.webp?alt=media&token=d10e78c2-c7d2-4b23-be71-929a14ebba2e"/></td></tr>
-<tr><td> <em>Caption:</em> <p>Login<br></p>
-</td></tr>
-<tr><td><img width="768px" src="https://firebasestorage.googleapis.com/v0/b/learn-e1de9.appspot.com/o/assignments%2Fka326%2F2023-10-15T04.08.16register.png.webp?alt=media&token=8b71839f-aa1f-4b95-b031-d8bf4d52a841"/></td></tr>
+<tr><td><table><tr><td><img width="768px" src="https://firebasestorage.googleapis.com/v0/b/learn-e1de9.appspot.com/o/assignments%2Fka326%2F2023-10-30T18.06.18first.PNG.webp?alt=media&token=1043e22b-31f8-43cd-b816-2dfbf34ea2e3"/></td></tr>
 <tr><td> <em>Caption:</em> <p>register<br></p>
 </td></tr>
+<tr><td><img width="768px" src="https://firebasestorage.googleapis.com/v0/b/learn-e1de9.appspot.com/o/assignments%2Fka326%2F2023-10-30T18.15.51Capture%202.PNG.webp?alt=media&token=89b6ad30-7b1f-4a88-abfb-89e6be700c2c"/></td></tr>
+<tr><td> <em>Caption:</em> (missing)</td></tr>
+<tr><td><img width="768px" src="https://firebasestorage.googleapis.com/v0/b/learn-e1de9.appspot.com/o/assignments%2Fka326%2F2023-10-30T18.19.30Capture3.PNG.webp?alt=media&token=9c03dffc-7ca4-42e4-a287-09ad9821e833"/></td></tr>
+<tr><td> <em>Caption:</em> (missing)</td></tr>
 </table></td></tr>
 </table></td></tr>
 <table><tr><td> <em>Deliverable 2: </em> Explain Solutions (Grader use this section to determine completion of each challenge) </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707834-bf5a5b13-ec36-4597-9741-aa830c195be2.png"></td></tr>
@@ -52,10 +50,10 @@
 </table></td></tr>
 <table><tr><td> <em>Deliverable 3: </em> Misc </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707773-e6aef7cb-d5b2-4053-bbb1-b09fc609041e.png"></td></tr>
 <tr><td><table><tr><td> <em>Sub-Task 1: </em> Comment briefly talking about what you learned and/or any difficulties you encountered and how you resolved them (or attempted to)</td></tr>
-<tr><td> <em>Response:</em> <p>the&nbsp;<span style="letter-spacing: 0.09996px;">difficulties i encountered&nbsp;was changing the&nbsp;checkmark. I use W3school to figure out<br>how make it work.</span><br></p><br></td></tr>
+<tr><td> <em>Response:</em> <p>the&nbsp;<span style="letter-spacing: 0.09996px;">difficulties i encountered&nbsp;was changing the&nbsp;checkmark. I use W3school to figure out<br>how to make it work.</span><br></p><br></td></tr>
 <tr><td> <em>Sub-Task 2: </em> Add a link to your pull request (hw branch to dev only)</td></tr>
-<tr><td> <a rel="noreferrer noopener" target="_blank" href="https://github.com/akwasi1993/HW3/compare/main...M3-Challenge-HW">https://github.com/akwasi1993/HW3/compare/main...M3-Challenge-HW</a> </td></tr>
+<tr><td> <a rel="noreferrer noopener" target="_blank" href="https://github.com/akwasi1993/HW3-M3-Challenge-HW/pull/1">https://github.com/akwasi1993/HW3-M3-Challenge-HW/pull/1</a> </td></tr>
 <tr><td> <em>Sub-Task 3: </em> Add a link to your solution html file from prod (again you can assume the url at this point)</td></tr>
-<tr><td> <a rel="noreferrer noopener" target="_blank" href="https://github.com/akwasi1993/HW3/compare/main...M3-Challenge-HW">https://github.com/akwasi1993/HW3/compare/main...M3-Challenge-HW</a> </td></tr>
+<tr><td> <a rel="noreferrer noopener" target="_blank" href="https://web.njit.edu/~ka326/IT202/HW3.php">https://web.njit.edu/~ka326/IT202/HW3.php</a> </td></tr>
 </table></td></tr>
 <table><tr><td><em>Grading Link: </em><a rel="noreferrer noopener" href="https://learn.ethereallab.app/homework/IT202-103-F23/it202-javascript-and-css-challenge/grade/ka326" target="_blank">Grading</a></td></tr></table>
