@@ -14,7 +14,7 @@
                 //added this delay here as some solutions may require it to update properly (i.e., click code may complete before the navigation changes)
                 //TODO: add code for processing the current selection 
 
-                //Note: likely you'll want to call updateCurrentPage towards the end
+                //Note:likely you'll want to call updateCurrentPage towards the end
             }, 100);
         }
     </script>
